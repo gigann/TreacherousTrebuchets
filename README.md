@@ -4,20 +4,20 @@ Treacherous Trebuchets is a small multiplayer PvP game I made as my final projec
 As part of the project, I had to choose a theme from a few given options, 2 features from one pool of features, and 1 feature from another pool of features. I chose the theme "We usually skip this", Skeletal Animation and Sound from Pool A, and Multiplayer from Pool B.
 
 ## Screenshots
-![ScreenShot](screenshots/screenshot1.jpg)
-Figure 1. Screenshot 1.
+![ScreenShot](ttscreenshots/screenshot1.jpg)
+Figure 1. The main menu where you can host games, join games, or adjust settings.
 
-![ScreenShot](screenshots/screenshot2.jpg)
-Figure 2. Screenshot 2.
+![ScreenShot](ttscreenshots/screenshot2.jpg)
+Figure 2. The green pad makes the player bounce.
 
-![ScreenShot](screenshots/screenshot3.jpg)
-Figure 3. Screenshot 3.
+![ScreenShot](ttscreenshots/screenshot3.jpg)
+Figure 3. Two players fight.
 
-![ScreenShot](screenshots/screenshot4.jpg)
-Figure 4. Screenshot 4.
+![ScreenShot](ttscreenshots/screenshot4.jpg)
+Figure 4. A player dies in level 2.
 
-![ScreenShot](screenshots/screenshot5.jpg)
-Figure 5. Screenshot 5.
+![ScreenShot](ttscreenshots/screenshot5.jpg)
+Figure 5. There are 3 different game modes.
 
 # Project Information
 Issac Gann (no team)
