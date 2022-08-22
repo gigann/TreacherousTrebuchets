@@ -13,11 +13,8 @@ Figure 2. The green pad makes the player bounce.
 ![ScreenShot](ttscreenshots/screenshot3.jpg)
 Figure 3. Two players fight.
 
-![ScreenShot](ttscreenshots/screenshot4.jpg)
-Figure 4. A player dies in level 2.
-
 ![ScreenShot](ttscreenshots/screenshot5.jpg)
-Figure 5. There are 3 different game modes.
+Figure 4. There are 3 different game modes.
 
 # Project Information
 Issac Gann (no team)
