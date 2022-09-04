@@ -1,5 +1,5 @@
 # Treacherous Trebuchets
-Treacherous Trebuchets is a small network-multiplayer PvP game I made as my final project for a college course about game deisgn.
+Treacherous Trebuchets is a small network-multiplayer PvP game I made as my final project for a game design class.
 
 As part of the project, I had to choose a theme from a few given options, 2 features from one pool of features, and 1 feature from another pool of features. I chose the theme "We usually skip this", Skeletal Animation and Sound from Pool A, and Multiplayer from Pool B.
 
